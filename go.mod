@@ -1,4 +1,4 @@
-module pfa
+module github.com/Mohamedamine991/pfa
 
 go 1.18
 
