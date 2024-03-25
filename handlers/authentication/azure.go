@@ -16,8 +16,7 @@ import (
         "encoding/json"
         "strconv"
 
-        //"github.com/Azure/azure-sdk-for-go/services/resources/mgmt/2017-05-10/resources"
-        //"github.com/Azure/azure-sdk-for-go/services/network/mgmt/2017-09-01/network"
+        
         "github.com/Azure/azure-sdk-for-go/services/compute/mgmt/2018-06-01/compute"
 
         "github.com/Azure/go-autorest/autorest"
