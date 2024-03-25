@@ -4,7 +4,7 @@ package main
 
 import (
     "log"
-    "handlers/authentication/azure" 
+    "github.com/Mohamedamine991/pfa/handlers/authentication"
 )
 
 func main() {

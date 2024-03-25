@@ -24,6 +24,7 @@ import (
         "github.com/Azure/go-autorest/autorest/to"
         "github.com/Azure/go-autorest/autorest/azure/auth"
         "github.com/Azure/go-autorest/autorest/azure"
+        
 )
 // Information for connection
 type ConnectionInfo struct {
